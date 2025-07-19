@@ -1,0 +1,12 @@
+librosa
+numpy
+scipy
+matplotlib
+soundfile
+sounddevice
+pydub
+praat-parselmouth
+openai-whisper
+imageio-ffmpeg
+serial
+
